@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ghapi/static/css/main.073c9b0a.css",
+    "main.js": "/ghapi/static/js/main.3b3886fc.js",
+    "static/js/787.32b0d8b8.chunk.js": "/ghapi/static/js/787.32b0d8b8.chunk.js",
+    "static/media/logo.svg": "/ghapi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ghapi/index.html",
+    "main.073c9b0a.css.map": "/ghapi/static/css/main.073c9b0a.css.map",
+    "main.3b3886fc.js.map": "/ghapi/static/js/main.3b3886fc.js.map",
+    "787.32b0d8b8.chunk.js.map": "/ghapi/static/js/787.32b0d8b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3b3886fc.js"
+  ]
+}
